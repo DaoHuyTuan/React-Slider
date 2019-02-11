@@ -1,0 +1,38 @@
+{
+  "name": "react-slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaoHuyTuan/React-Slider.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "Slider"
+  ],
+  "author": "dao huy tuan <tuandh95@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaoHuyTuan/React-Slider/issues"
+  },
+  "homepage": "https://github.com/DaoHuyTuan/React-Slider#readme",
+  "dependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^2.1.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-hot-loader": "^4.6.5",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
