@@ -1,9 +1,11 @@
 import React from "react";
-
-export default class App extends React.Component {
-    render() {
-        return(
-            <h1>Hello React</h1>
-        )
-    }
+import Slider from "./component/Slider/Slider";
+import "./style.css";
+function App() {
+    return(
+        <div className="App">
+            <Slider />
+        </div>
+    )
 }
+export default App;
